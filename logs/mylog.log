@@ -32,3 +32,7 @@
 [INFO ] 2024-12-14 15:16:58.872 [main] RestAssuredAutomationFramework_test - Get User Data executed.
 [INFO ] 2024-12-14 15:17:02.666 [main] RestAssuredAutomationFramework_test - Update User executed.
 [INFO ] 2024-12-14 15:17:04.394 [main] RestAssuredAutomationFramework_test - Delete User executed.
+[INFO ] 2024-12-16 11:40:45.428 [main] RestAssuredAutomationFramework_test - Create User executed.
+[INFO ] 2024-12-16 11:40:46.937 [main] RestAssuredAutomationFramework_test - Get User Data executed.
+[INFO ] 2024-12-16 11:40:49.906 [main] RestAssuredAutomationFramework_test - Update User executed.
+[INFO ] 2024-12-16 11:40:51.308 [main] RestAssuredAutomationFramework_test - Delete User executed.
